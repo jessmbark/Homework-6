@@ -1,3 +1,3 @@
 # Homework-6
  Homework 6 Lede 2024
-#Candidly, these are unfinished and incorrect notebooks. As someone working full time, I am already struggling to keep up. I will probably go back and watch the walkthroughs to correct and finish these later, but right now, I have to walk away from this so that I can work on the other assignemnts.
+I was really struggling to keep up with the pace of the class when I did this, but I refer back to these to remind myself of what pandas is capabale of. I did this as part of the 2024 Lede Program.
